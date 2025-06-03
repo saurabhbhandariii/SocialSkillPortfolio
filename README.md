@@ -30,6 +30,10 @@ A modern, responsive portfolio web app built with TypeScript and React, designed
 
 ![Screenshot 2025-06-01 222402](https://github.com/user-attachments/assets/ca4e1afc-ae1a-4bcc-a8d7-6ce8f410abbb)
 
+![image](https://github.com/user-attachments/assets/0d7fa84d-656e-4256-b8e2-5ed779632437)
+![image](https://github.com/user-attachments/assets/17f3702f-c23f-407e-9323-981cb23574c9)
+
+
 
 
 

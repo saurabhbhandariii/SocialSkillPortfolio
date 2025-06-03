@@ -16,7 +16,7 @@ A modern, responsive portfolio web app built with TypeScript and React, designed
 
 - **Frontend**: React, TypeScript, Vite, Tailwind CSS
 - **UI Components**: shadcn/ui, Lucide icons
-- **Backend**: Node.js, Express (if used)
+- **Backend**: Node.js, Express 
 - **Email Handling**: Nodemailer or custom SMTP
 - **Hosting**: GitHub Pages / Vercel / Replit
 
